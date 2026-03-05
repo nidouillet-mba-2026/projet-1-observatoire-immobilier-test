@@ -11,7 +11,7 @@ import math
 
 def mean(xs: list[float]) -> float:
     """Retourne la moyenne d'une liste de nombres."""
-    # VOTRE CODE ICI
+    test = 0
     raise NotImplementedError("Implementez mean() - voir Grus ch.5")
 
 
